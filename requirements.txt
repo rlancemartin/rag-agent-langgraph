@@ -1,0 +1,11 @@
+langgraph
+langchain_anthropic
+langchain_core
+tavily-python
+langchain_community
+langchain_openai
+langchain_nomic
+beautifulsoup4
+langchainhub
+tiktoken
+chromadb
